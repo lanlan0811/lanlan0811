@@ -29,23 +29,17 @@
 
 <div align="center">
 
-<img src="https://cdn.simpleicons.org/typescript/3178C6" width="52" height="52" alt="TypeScript" title="TypeScript" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="52" height="52" alt="JavaScript" title="JavaScript" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="52" height="52" alt="Node.js" title="Node.js" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/react/61DAFB" width="52" height="52" alt="React" title="React" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" width="52" height="52" alt="Vue" title="Vue" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="52" height="52" alt="Next.js" title="Next.js" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/electron/47848F" width="52" height="52" alt="Electron" title="Electron" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/anthropic/D4A27F" width="52" height="52" alt="MCP" title="MCP / Anthropic" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/git/F05032" width="52" height="52" alt="Git" title="Git" />
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-D4A27F?style=for-the-badge&logo=anthropic&logoColor=white)
 
 </div>
 
