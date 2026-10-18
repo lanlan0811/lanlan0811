@@ -15,12 +15,72 @@
 
 ## 关于我
 
-热爱把想法快速变成能跑的东西。主要精力放在 **AI Agent 编排**、**AI 影视/视觉创作** 和 **实用型财务工具** 三条线上 —— 不追求炫技，只追求「装上去就能用，跑起来就有效」。
+> 「静立巅峰，眺望心之狂野。」
 
-- 正在做 **天枢 (Tianshu)** 系列：让 AI Agent 真正可靠地干活，而不是只会聊天
-- 在做 **Toonflow**：从小说到成片的一条龙本地工作台
-- 在打磨 **erp-tax**：小微企业用得起的轻量财务系统
-- 聊聊 AI Agent、MCP、工作流自动化都可以
+一个把想法快速变成能跑的东西的人。主战场在 **AI Agent 编排**、**AI 影视 / 视觉创作**、**实用型财务工具** 三条线上 —— 不追求炫技，只追求「装上去就能用，跑起来就有效」。
+
+比起堆砌概念，更相信一件事：**能跑通、能被验收、能交付，才算真的做完了。**
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## 角色属性
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**称号** `TITLE`
+AI Agent 编排者
+
+**职业** `CLASS`
+全栈工程师 / 工具制造者
+
+**阵营** `ALIGNMENT`
+实用主义 · 交付优先
+
+</td>
+<td width="50%" valign="top">
+
+**等级** `LEVEL`
+持续升级中
+
+**活动区域** `REGION`
+China · Windows / Electron 生态
+
+**装备倾向** `LOADOUT`
+TypeScript 主手 · MCP 副手
+
+</td>
+</tr>
+</table>
+
+### 状态面板
+
+```text
+HP  生命值  ███████████████████░  96   熬夜写代码的耐力
+MP  魔力值  ████████████████░░░░  82   灵感储备
+EXP 经验值  ██████████████░░░░░░  71   距离下一次升级
+```
+
+### 技能树
+
+```text
+AGENT ORCHESTRATION   ██████████████████░░  92   把外部 Agent 编排成可靠流水线
+WORKFLOW AUTOMATION   ██████████████████░░  90   让重复劳动彻底消失
+MCP TOOLCHAIN         █████████████████░░░  88   工具链设计与协议对接
+AI FILM & VISUAL      █████████████████░░░  85   小说 → 剧本 → 分镜 → 成片
+FRONTEND ENGINEERING  ████████████████░░░░  82   Electron / React / Vue 桌面端
+FINANCE & ERP         ███████████████░░░░░  78   小微企业财税系统
+```
+
+### 天赋
+
+| 天赋 | 说明 |
+| :--- | :--- |
+| **运行时证据验收** | 不接受「应该能跑」，只认跑出来的结果 |
+| **失败自动返修** | 一次不通过就再来一次，直到真正通过 |
+| **开箱即用主义** | 反感堆配置，能一步到位绝不分三步 |
+| **全链路思维** | 从需求到交付，每一环都要能自己接手 |
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
@@ -44,15 +104,15 @@
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 精选项目
+## 任务日志
 
-### AI Agent 编排
+### 主线任务 · AI Agent 编排
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### [tianshu-mcp](https://github.com/lanlan0811/tianshu-mcp) · 10 stars
+**[tianshu-mcp](https://github.com/lanlan0811/tianshu-mcp)** `10 stars`
 
 天枢 harness × AI-Agent 编排 **MCP Server**。
 把外部 Agent 拉来干活，用**运行时证据**做客观验收，不通过就自动返修，直到真正跑通。
@@ -62,7 +122,7 @@
 </td>
 <td width="50%" valign="top">
 
-#### [Tianshu-harness](https://github.com/lanlan0811/Tianshu-harness)
+**[Tianshu-harness](https://github.com/lanlan0811/Tianshu-harness)**
 
 终端编码 Agent，基于 harness 框架，带 CVM / 自我认知 / 共识记忆，针对 DeepSeek V4 前缀缓存优化。
 
@@ -72,13 +132,13 @@
 </tr>
 </table>
 
-### AI 影视 / 视觉创作
+### 主线任务 · AI 影视 / 视觉创作
 
 <table>
 <tr>
 <td width="100%" valign="top">
 
-#### [toonflow-2.0](https://github.com/lanlan0811/toonflow-2.0) · 9 stars
+**[toonflow-2.0](https://github.com/lanlan0811/toonflow-2.0)** `9 stars`
 
 本地化 AI 影视 / 视觉内容工作台，基于 HBAI-Ltd Toonflow 深度二次开发。
 覆盖 **小说 → 剧本 → 分镜 → 图像/视频生成** 全流程；支持分镜导入与资产关联、可重试的短剧工作流、商品视觉工厂、无限画布。
@@ -89,13 +149,13 @@
 </tr>
 </table>
 
-### 财务 / ERP 工具
+### 支线任务 · 财务 / ERP 工具
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### [erp-tax](https://github.com/lanlan0811/erp-tax)
+**[erp-tax](https://github.com/lanlan0811/erp-tax)**
 
 面向中国个体工商户与小微企业的轻量独立财务/ERP 系统。开箱即用，不堆配置。
 
@@ -104,7 +164,7 @@
 </td>
 <td width="50%" valign="top">
 
-#### [Personal-finance-Windows-x64](https://github.com/lanlan0811/Personal-finance-Windows-x64)
+**[Personal-finance-Windows-x64](https://github.com/lanlan0811/Personal-finance-Windows-x64)**
 
 个人记账桌面端 Demo，学习 Trae IDE 期间的实战产物。
 
@@ -113,6 +173,34 @@
 </td>
 </tr>
 </table>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## 成就
+
+```text
+[ 已解锁 ]  首次交付         让一个 AI Agent 真正跑通了完整闭环
+[ 已解锁 ]  开源首星         tianshu-mcp 拿到第 1 颗 Star
+[ 已解锁 ]  全链路制作者     从需求、设计到落地，一个人走完全程
+[ 已解锁 ]  深夜施工队       在凌晨仍然保持提交记录
+[ 进行中 ]  生态构建者       把工具串成体系，而不只是零散脚本
+[ 未解锁 ]  ???              继续做下去自然会知道
+```
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## 好感度
+
+想聊 AI Agent、MCP、工作流自动化，或者只是想看看在做什么 —— 都欢迎。
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/lanaiw.top-1C5FA8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.lanaiw.top/)
+[![Bilibili](https://img.shields.io/badge/Bilibili-0A1F3D?style=for-the-badge&logo=bilibili&logoColor=9FE4FF)](https://space.bilibili.com/3546836998556622)
+[![X](https://img.shields.io/badge/X-0A1F3D?style=for-the-badge&logo=x&logoColor=9FE4FF)](https://x.com/Lanmbsn)
+[![Email](https://img.shields.io/badge/lanaiw2025@163.com-123E77?style=for-the-badge&logo=gmail&logoColor=9FE4FF)](mailto:lanaiw2025@163.com)
+
+</div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
