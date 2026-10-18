@@ -4,7 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=760&lines=AI+Agent+Orchestration+%C3%97+MCP;AI+Film+%26+Visual+Workbench;Building+tools+that+actually+ship)](https://git.io/typing-svg)
 
-<!-- 社交链接 -->
 [![Website](https://img.shields.io/badge/lanaiw.top-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.lanaiw.top/)
 [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/3546836998556622)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Lanmbsn)
@@ -18,11 +17,11 @@
 
 热爱把想法快速变成能跑的东西。主要精力放在 **AI Agent 编排**、**AI 影视/视觉创作** 和 **实用型财务工具** 三条线上 —— 不追求炫技，只追求「装上去就能用，跑起来就有效」。
 
-- 🔭 正在做 **天枢 (Tianshu)** 系列：让 AI Agent 真正可靠地干活，而不是只会聊天
-- 🎬 在做 **Toonflow**：从小说到成片的一条龙本地工作台
-- 🧾 在打磨 **erp-tax**：小微企业用得起的轻量财务系统
-- 🌱 持续沉淀 **Agent Skills** 与工程方法论
-- 💬 聊聊 AI Agent、MCP、工作流自动化都可以
+- 正在做 **天枢 (Tianshu)** 系列：让 AI Agent 真正可靠地干活，而不是只会聊天
+- 在做 **Toonflow**：从小说到成片的一条龙本地工作台
+- 在打磨 **erp-tax**：小微企业用得起的轻量财务系统
+- 持续沉淀 **Agent Skills** 与工程方法论
+- 聊聊 AI Agent、MCP、工作流自动化都可以
 
 ---
 
@@ -30,18 +29,23 @@
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-1F6FEB?style=for-the-badge&logo=anthropic&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://cdn.simpleicons.org/typescript/3178C6" width="52" height="52" alt="TypeScript" title="TypeScript" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="52" height="52" alt="JavaScript" title="JavaScript" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="52" height="52" alt="Node.js" title="Node.js" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="52" height="52" alt="React" title="React" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" width="52" height="52" alt="Vue" title="Vue" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="52" height="52" alt="Next.js" title="Next.js" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/electron/47848F" width="52" height="52" alt="Electron" title="Electron" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/anthropic/D4A27F" width="52" height="52" alt="MCP" title="MCP / Anthropic" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/git/F05032" width="52" height="52" alt="Git" title="Git" />
 
 </div>
 
@@ -49,13 +53,13 @@
 
 ## 精选项目
 
-### 🤖 AI Agent 编排
+### AI Agent 编排
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### [tianshu-mcp](https://github.com/lanlan0811/tianshu-mcp) ⭐ 10
+#### [tianshu-mcp](https://github.com/lanlan0811/tianshu-mcp) · 10 stars
 
 天枢 harness × AI-Agent 编排 **MCP Server**。
 把外部 Agent 拉来干活，用**运行时证据**做客观验收，不通过就自动返修，直到真正跑通。
@@ -110,13 +114,13 @@ harness 体系下的实验性 Agent 运行时。
 </tr>
 </table>
 
-### 🎬 AI 影视 / 视觉创作
+### AI 影视 / 视觉创作
 
 <table>
 <tr>
 <td width="100%" valign="top">
 
-#### [toonflow-2.0](https://github.com/lanlan0811/toonflow-2.0) ⭐ 9
+#### [toonflow-2.0](https://github.com/lanlan0811/toonflow-2.0) · 9 stars
 
 本地化 AI 影视 / 视觉内容工作台，基于 HBAI-Ltd Toonflow 深度二次开发。
 覆盖 **小说 → 剧本 → 分镜 → 图像/视频生成** 全流程；支持分镜导入与资产关联、可重试的短剧工作流、商品视觉工厂、无限画布。
@@ -127,7 +131,7 @@ harness 体系下的实验性 Agent 运行时。
 </tr>
 </table>
 
-### 🧾 财务 / ERP 工具
+### 财务 / ERP 工具
 
 <table>
 <tr>
@@ -171,7 +175,7 @@ harness 体系下的实验性 Agent 运行时。
 
 ### 静立巅峰，眺望心之狂野
 
-*如果你觉得某个项目对你有帮助，欢迎 Star ⭐ / Issue / PR*
+*如果某个项目对你有帮助，欢迎 Star / Issue / PR*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
 
