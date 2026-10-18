@@ -1,60 +1,77 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140" role="img" aria-label="静立巅峰，眺望心之狂野">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="静立巅峰，眺望心之狂野">
   <defs>
     <linearGradient id="fbg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#E94E8A"/>
-      <stop offset="30%" stop-color="#9B2A79"/>
-      <stop offset="62%" stop-color="#43155C"/>
-      <stop offset="100%" stop-color="#170A2B"/>
+      <stop offset="0%" stop-color="#1C5FA8"/>
+      <stop offset="32%" stop-color="#123E77"/>
+      <stop offset="68%" stop-color="#0A1F3D"/>
+      <stop offset="100%" stop-color="#040C1C"/>
     </linearGradient>
 
-    <linearGradient id="fw1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FF8FC4" stop-opacity="0.34"/>
-      <stop offset="60%" stop-color="#C77DFF" stop-opacity="0.20"/>
-      <stop offset="100%" stop-color="#FF8FC4" stop-opacity="0.10"/>
-    </linearGradient>
-
-    <linearGradient id="fw2" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.16"/>
-      <stop offset="100%" stop-color="#FFD1E8" stop-opacity="0.04"/>
-    </linearGradient>
+    <radialGradient id="fglow" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#6FD6FF" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#6FD6FF" stop-opacity="0"/>
+    </radialGradient>
 
     <linearGradient id="frule" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.30"/>
-      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#8FE3FF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#BFF0FF" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#8FE3FF" stop-opacity="0"/>
     </linearGradient>
 
-    <filter id="fsoftglow" x="-40%" y="-40%" width="180%" height="180%">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="1.4" result="blur"/>
-      <feComponentTransfer in="blur" result="dim">
+    <linearGradient id="ffeather" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#9FE4FF" stop-opacity="0.15"/>
+    </linearGradient>
+
+    <filter id="fsoft" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1.6" result="b"/>
+      <feComponentTransfer in="b" result="d">
         <feFuncA type="linear" slope="0.3"/>
       </feComponentTransfer>
       <feMerge>
-        <feMergeNode in="dim"/>
+        <feMergeNode in="d"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
 
-    <pattern id="fgrid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" fill="none" stroke="#FFFFFF" stroke-opacity="0.04" stroke-width="1"/>
+    <pattern id="fgrid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#9FE4FF" stroke-opacity="0.045" stroke-width="1"/>
     </pattern>
   </defs>
 
-  <rect width="1200" height="140" fill="url(#fbg)"/>
-  <rect width="1200" height="140" fill="url(#fgrid)"/>
+  <rect width="1200" height="220" fill="url(#fbg)"/>
+  <rect width="1200" height="220" fill="url(#fgrid)"/>
+  <ellipse cx="600" cy="110" rx="420" ry="140" fill="url(#fglow)"/>
 
-  <!-- 波浪层 -->
-  <path d="M0,96 C160,78 300,112 470,100 C640,88 760,66 930,86 C1050,100 1130,106 1200,92 L1200,140 L0,140 Z" fill="url(#fw1)"/>
-  <path d="M0,116 C190,102 340,126 520,116 C700,106 820,90 990,108 C1090,119 1150,122 1200,112 L1200,140 L0,140 Z" fill="url(#fw2)"/>
+  <!-- 羽毛 -->
+  <g fill="url(#ffeather)" opacity="0.75">
+    <g transform="translate(150,60) rotate(-22) scale(0.6)">
+      <path d="M0,0 C10,-22 30,-34 52,-30 C40,-12 20,3 0,0 Z"/>
+    </g>
+    <g transform="translate(1030,150) rotate(24) scale(0.5)">
+      <path d="M0,0 C10,-22 30,-34 52,-30 C40,-12 20,3 0,0 Z"/>
+    </g>
+  </g>
 
-  <!-- 分隔线 -->
-  <rect x="450" y="46" width="300" height="1" fill="url(#frule)"/>
+  <!-- 星点 -->
+  <g fill="#DFF7FF">
+    <circle cx="240" cy="40" r="1.6" opacity="0.6"/>
+    <circle cx="980" cy="52" r="1.8" opacity="0.55"/>
+    <circle cx="330" cy="170" r="1.3" opacity="0.4"/>
+    <circle cx="880" cy="182" r="1.4" opacity="0.45"/>
+  </g>
 
-  <text x="600" y="82" text-anchor="middle"
+  <!-- 中线 -->
+  <rect x="440" y="66" width="320" height="1" fill="url(#frule)"/>
+
+  <text x="600" y="118" text-anchor="middle"
         font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif"
-        font-size="24" font-weight="600" letter-spacing="4" fill="#FFFFFF" filter="url(#fsoftglow)">静立巅峰，眺望心之狂野</text>
+        font-size="27" font-weight="600" letter-spacing="5" fill="#FFFFFF" filter="url(#fsoft)">静立巅峰，眺望心之狂野</text>
 
-  <text x="600" y="112" text-anchor="middle"
-        font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif"
-        font-size="12.5" letter-spacing="2" fill="#FFD1E8" fill-opacity="0.85">如果某个项目对你有帮助，欢迎 Star / Issue / PR</text>
+  <text x="600" y="152" text-anchor="middle"
+        font-family="'JetBrains Mono','Consolas',monospace"
+        font-size="11.5" letter-spacing="2" fill="#9FE4FF" fill-opacity="0.8">IF ANY PROJECT HELPS YOU, STAR · ISSUE · PR ARE WELCOME</text>
+
+  <!-- 底部细线 -->
+  <rect x="0" y="218" width="1200" height="2" fill="url(#frule)" opacity="0.5"/>
 </svg>

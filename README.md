@@ -2,16 +2,16 @@
 
 <img src="assets/banner.svg" width="100%" alt="兰 - 静立巅峰，眺望心之狂野" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=E94E8A&center=true&vCenter=true&width=760&lines=AI+Agent+Orchestration+%C3%97+MCP;AI+Film+%26+Visual+Workbench;Building+tools+that+actually+ship)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=6FD6FF&center=true&vCenter=true&width=760&lines=AI+Agent+Orchestration+%C3%97+MCP;AI+Film+%26+Visual+Workbench;Building+tools+that+actually+ship)](https://git.io/typing-svg)
 
-[![Website](https://img.shields.io/badge/lanaiw.top-2D1B4E?style=flat-square&logo=googlechrome&logoColor=white)](https://www.lanaiw.top/)
-[![Bilibili](https://img.shields.io/badge/Bilibili-7B2D8E?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/3546836998556622)
-[![X](https://img.shields.io/badge/X-2D1B4E?style=flat-square&logo=x&logoColor=white)](https://x.com/Lanmbsn)
-[![Email](https://img.shields.io/badge/lanaiw2025@163.com-E94E8A?style=flat-square&logo=gmail&logoColor=white)](mailto:lanaiw2025@163.com)
+[![Website](https://img.shields.io/badge/lanaiw.top-0A1F3D?style=flat-square&logo=googlechrome&logoColor=9FE4FF)](https://www.lanaiw.top/)
+[![Bilibili](https://img.shields.io/badge/Bilibili-1C5FA8?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/3546836998556622)
+[![X](https://img.shields.io/badge/X-0A1F3D?style=flat-square&logo=x&logoColor=9FE4FF)](https://x.com/Lanmbsn)
+[![Email](https://img.shields.io/badge/lanaiw2025@163.com-123E77?style=flat-square&logo=gmail&logoColor=9FE4FF)](mailto:lanaiw2025@163.com)
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 关于我
 
@@ -22,7 +22,7 @@
 - 在打磨 **erp-tax**：小微企业用得起的轻量财务系统
 - 聊聊 AI Agent、MCP、工作流自动化都可以
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 技术栈
 
@@ -42,7 +42,7 @@
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 精选项目
 
@@ -114,7 +114,7 @@
 </tr>
 </table>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
 
