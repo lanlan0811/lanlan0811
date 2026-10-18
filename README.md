@@ -13,7 +13,7 @@
 
 ---
 
-## <img src="https://cdn.simpleicons.org/aboutdotme/36BCF7" width="22" height="22" alt="" /> 关于我
+## 关于我
 
 热爱把想法快速变成能跑的东西。主要精力放在 **AI Agent 编排**、**AI 影视/视觉创作** 和 **实用型财务工具** 三条线上 —— 不追求炫技，只追求「装上去就能用，跑起来就有效」。
 
@@ -25,7 +25,7 @@
 
 ---
 
-## <img src="https://cdn.simpleicons.org/codeforces/36BCF7" width="22" height="22" alt="" /> 技术栈
+## 技术栈
 
 <div align="center">
 
@@ -45,9 +45,9 @@
 
 ---
 
-## <img src="https://cdn.simpleicons.org/rocket/36BCF7" width="22" height="22" alt="" /> 精选项目
+## 精选项目
 
-### <img src="https://cdn.simpleicons.org/probot/36BCF7" width="20" height="20" alt="" /> AI Agent 编排
+### AI Agent 编排
 
 <table>
 <tr>
@@ -87,7 +87,7 @@
 </tr>
 </table>
 
-### <img src="https://cdn.simpleicons.org/davinciresolve/36BCF7" width="20" height="20" alt="" /> AI 影视 / 视觉创作
+### AI 影视 / 视觉创作
 
 <table>
 <tr>
@@ -104,7 +104,7 @@
 </tr>
 </table>
 
-### <img src="https://cdn.simpleicons.org/quickbooks/36BCF7" width="20" height="20" alt="" /> 财务 / ERP 工具
+### 财务 / ERP 工具
 
 <table>
 <tr>
