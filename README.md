@@ -20,7 +20,6 @@
 - 正在做 **天枢 (Tianshu)** 系列：让 AI Agent 真正可靠地干活，而不是只会聊天
 - 在做 **Toonflow**：从小说到成片的一条龙本地工作台
 - 在打磨 **erp-tax**：小微企业用得起的轻量财务系统
-- 持续沉淀 **Agent Skills** 与工程方法论
 - 聊聊 AI Agent、MCP、工作流自动化都可以
 
 ---
@@ -68,20 +67,6 @@
 终端编码 Agent，基于 harness 框架，带 CVM / 自我认知 / 共识记忆，针对 DeepSeek V4 前缀缓存优化。
 
 `TypeScript` · `Apache-2.0`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### [My-Agent-Skills-Collection](https://github.com/lanlan0811/My-Agent-Skills-Collection)
-
-面向主流 AI Agent 工具的开源技能合集：财税数据可视化、仓库分析、安全审计、分镜静帧、连续性控制、图生视频提示词。
-
-`Agent Skills`
-
-</td>
-<td width="50%" valign="top">
 
 </td>
 </tr>
