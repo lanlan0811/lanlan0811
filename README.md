@@ -7,7 +7,7 @@
 [![Website](https://img.shields.io/badge/lanaiw.top-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.lanaiw.top/)
 [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/3546836998556622)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Lanmbsn)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lanaiw2025@163.com)
+[![Email](https://img.shields.io/badge/lanaiw2025@163.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lanaiw2025@163.com)
 
 </div>
 
