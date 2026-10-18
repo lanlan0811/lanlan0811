@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" width="100%" alt="兰 - 静立巅峰，眺望心之狂野" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=6FD6FF&center=true&vCenter=true&width=760&lines=AI+Agent+Orchestration+%C3%97+MCP;AI+Film+%26+Visual+Workbench;Building+tools+that+actually+ship)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=6FD6FF&center=true&vCenter=true&width=760&lines=%E8%B7%9F%E9%9A%8F%E6%82%A0%E8%BF%9C%E7%9A%84%E6%9C%88%E5%85%89%EF%BC%8C%E6%89%BE%E5%9B%9E%E5%BD%92%E9%80%94%E5%90%A7;%E6%88%91%E4%BC%9A%E6%88%90%E4%B8%BA%E7%85%A7%E8%80%80%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%9C%88%E5%85%89;%E6%AF%94%E8%B5%B7%E9%82%A3%E4%B8%AA%E5%86%B0%E5%86%B7%E7%9A%84%E4%B8%96%E7%95%8C%EF%BC%8C%E4%BD%A0%E4%BB%AC%E6%9B%B4%E9%87%8D%E8%A6%81)](https://git.io/typing-svg)
 
 [![Website](https://img.shields.io/badge/lanaiw.top-0A1F3D?style=flat-square&logo=googlechrome&logoColor=9FE4FF)](https://www.lanaiw.top/)
 [![Bilibili](https://img.shields.io/badge/Bilibili-1C5FA8?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/3546836998556622)
@@ -13,78 +13,82 @@
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 关于我
+## 月之公主
 
-> 「静立巅峰，眺望心之狂野。」
+> 「比起那个冰冷的世界，在此与你们相伴更重要。」
 
-一个把想法快速变成能跑的东西的人。主战场在 **AI Agent 编排**、**AI 影视 / 视觉创作**、**实用型财务工具** 三条线上 —— 不追求炫技，只追求「装上去就能用，跑起来就有效」。
+我诞生于明月，由月之民抚养长大，却始终学不会他们那样冰冷地看待万物。
 
-比起堆砌概念，更相信一件事：**能跑通、能被验收、能交付，才算真的做完了。**
+后来我离开了月宫，落进人间。人间没有月宫那般永恒的光，可这里有春樱、有女子会、有竹林里断断续续的琴笛与笑声 —— 有温度。
+
+所以我不打算忘记。**人间的回忆，我不会忘记。**
+
+如今我把这份心意放进代码里：让工具真正跑起来，让想法不再停在纸上。
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 角色属性
+## 式神档案
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**称号** `TITLE`
-AI Agent 编排者
+**名讳** `NAME`
+因幡辉夜姬 · Kaguya
 
-**职业** `CLASS`
-全栈工程师 / 工具制造者
+**出身** `ORIGIN`
+月宫 · 明月之中诞生
 
 **阵营** `ALIGNMENT`
-实用主义 · 交付优先
+人间侧 · 守护愿力者
 
 </td>
 <td width="50%" valign="top">
 
-**等级** `LEVEL`
-持续升级中
+**武器** `WEAPON`
+月之茧
 
-**活动区域** `REGION`
-China · Windows / Electron 生态
+**特技** `SKILL`
+唤月映夜，倾听人愿
 
-**装备倾向** `LOADOUT`
-TypeScript 主手 · MCP 副手
+**信条** `CREED`
+守护身旁的人，胜过仰望冰冷的月
 
 </td>
 </tr>
 </table>
 
-### 状态面板
+### 灵力状态
 
 ```text
-HP  生命值  ███████████████████░  96   熬夜写代码的耐力
-MP  魔力值  ████████████████░░░░  82   灵感储备
-EXP 经验值  ██████████████░░░░░░  71   距离下一次升级
+愿力    ███████████████████░  96   为守护而生的力量
+月光    ████████████████░░░░  82   照亮他人的余温
+羁绊    ██████████████░░░░░░  71   尚未走完的人间旅途
 ```
 
-### 技能树
+### 月之技艺
 
 ```text
-AGENT ORCHESTRATION   ██████████████████░░  92   把外部 Agent 编排成可靠流水线
-WORKFLOW AUTOMATION   ██████████████████░░  90   让重复劳动彻底消失
-MCP TOOLCHAIN         █████████████████░░░  88   工具链设计与协议对接
-AI FILM & VISUAL      █████████████████░░░  85   小说 → 剧本 → 分镜 → 成片
-FRONTEND ENGINEERING  ████████████████░░░░  82   Electron / React / Vue 桌面端
-FINANCE & ERP         ███████████████░░░░░  78   小微企业财税系统
+AGENT ORCHESTRATION   ██████████████████░░  92   唤来外部 Agent，让它们各司其职
+WORKFLOW AUTOMATION   ██████████████████░░  90   映照夜色的流水，往复不息
+MCP TOOLCHAIN         █████████████████░░░  88   编织工具之间的因缘
+AI FILM & VISUAL      █████████████████░░░  85   从故事到成片，长夜里的造梦
+FRONTEND ENGINEERING  ████████████████░░░░  82   Electron / React / Vue 的居所
+FINANCE & ERP         ███████████████░░░░░  78   为人间琐事点一盏灯
 ```
 
-### 天赋
+### 因幡之赐
 
-| 天赋 | 说明 |
+| 赐福 | 说明 |
 | :--- | :--- |
-| **运行时证据验收** | 不接受「应该能跑」，只认跑出来的结果 |
-| **失败自动返修** | 一次不通过就再来一次，直到真正通过 |
-| **开箱即用主义** | 反感堆配置，能一步到位绝不分三步 |
-| **全链路思维** | 从需求到交付，每一环都要能自己接手 |
+| **以证据为誓** | 不接受「应当可以」，只承认真正发生的结果 |
+| **不弃之守** | 一次不成便再来一次，直到它真正站起来 |
+| **简洁之愿** | 厌恶冗长的仪轨，能一步抵达便不分作三步 |
+| **全程相随** | 从最初的祈愿到最后的交付，亲自走完 |
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 技术栈
+## 随身之物
 
 <div align="center">
 
@@ -104,9 +108,9 @@ FINANCE & ERP         ███████████████░░░░�
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 任务日志
+## 人间的印记
 
-### 主线任务 · AI Agent 编排
+### 其一 · 唤月之契 · AI Agent 编排
 
 <table>
 <tr>
@@ -115,7 +119,7 @@ FINANCE & ERP         ███████████████░░░░�
 **[tianshu-mcp](https://github.com/lanlan0811/tianshu-mcp)** `10 stars`
 
 天枢 harness × AI-Agent 编排 **MCP Server**。
-把外部 Agent 拉来干活，用**运行时证据**做客观验收，不通过就自动返修，直到真正跑通。
+把外部 Agent 唤来做事，以**运行时证据**为誓完成验收；若不成，便让它再来一次 —— 直到真正跑通为止。
 
 `TypeScript` · `MCP` · `Apache-2.0`
 
@@ -124,7 +128,7 @@ FINANCE & ERP         ███████████████░░░░�
 
 **[Tianshu-harness](https://github.com/lanlan0811/Tianshu-harness)**
 
-终端编码 Agent，基于 harness 框架，带 CVM / 自我认知 / 共识记忆，针对 DeepSeek V4 前缀缓存优化。
+终端编码 Agent，立于 harness 之框架上，携 CVM / 自我认知 / 共识记忆，为 DeepSeek V4 的前缀缓存而调校。
 
 `TypeScript` · `Apache-2.0`
 
@@ -132,7 +136,7 @@ FINANCE & ERP         ███████████████░░░░�
 </tr>
 </table>
 
-### 主线任务 · AI 影视 / 视觉创作
+### 其二 · 映夜之镜 · AI 影视 / 视觉创作
 
 <table>
 <tr>
@@ -140,8 +144,8 @@ FINANCE & ERP         ███████████████░░░░�
 
 **[toonflow-2.0](https://github.com/lanlan0811/toonflow-2.0)** `9 stars`
 
-本地化 AI 影视 / 视觉内容工作台，基于 HBAI-Ltd Toonflow 深度二次开发。
-覆盖 **小说 → 剧本 → 分镜 → 图像/视频生成** 全流程；支持分镜导入与资产关联、可重试的短剧工作流、商品视觉工厂、无限画布。
+落于本地的 AI 影视 / 视觉工作台，承自 HBAI-Ltd Toonflow 并深加雕琢。
+自 **小说 → 剧本 → 分镜 → 图像/视频** 一路延展；分镜可导入并与资产结缘，短剧流程可重来，另有商品视觉工坊与无尽画卷。
 
 `TypeScript` · `Electron` · `Apache-2.0`
 
@@ -149,7 +153,7 @@ FINANCE & ERP         ███████████████░░░░�
 </tr>
 </table>
 
-### 支线任务 · 财务 / ERP 工具
+### 其三 · 人间烟火 · 财务 / ERP 工具
 
 <table>
 <tr>
@@ -157,7 +161,7 @@ FINANCE & ERP         ███████████████░░░░�
 
 **[erp-tax](https://github.com/lanlan0811/erp-tax)**
 
-面向中国个体工商户与小微企业的轻量独立财务/ERP 系统。开箱即用，不堆配置。
+为中国个体工商户与小微企业而作的轻量财务 / ERP 系统。取来即可用，不必再设繁复仪轨。
 
 `TypeScript` · `AGPL-3.0`
 
@@ -166,7 +170,7 @@ FINANCE & ERP         ███████████████░░░░�
 
 **[Personal-finance-Windows-x64](https://github.com/lanlan0811/Personal-finance-Windows-x64)**
 
-个人记账桌面端 Demo，学习 Trae IDE 期间的实战产物。
+个人记账桌面端 Demo，是学习 Trae IDE 时留下的第一段人间记录。
 
 `JavaScript` · `Windows x64`
 
@@ -176,22 +180,22 @@ FINANCE & ERP         ███████████████░░░░�
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 成就
+## 追忆绘卷
 
 ```text
-[ 已解锁 ]  首次交付         让一个 AI Agent 真正跑通了完整闭环
-[ 已解锁 ]  开源首星         tianshu-mcp 拿到第 1 颗 Star
-[ 已解锁 ]  全链路制作者     从需求、设计到落地，一个人走完全程
-[ 已解锁 ]  深夜施工队       在凌晨仍然保持提交记录
-[ 进行中 ]  生态构建者       把工具串成体系，而不只是零散脚本
-[ 未解锁 ]  ???              继续做下去自然会知道
+[ 已记录 ]  初次守护       让一个 AI Agent 走完了完整的闭环
+[ 已记录 ]  第一缕月光     tianshu-mcp 收到了第一颗 Star
+[ 已记录 ]  独自行走       从祈愿、描摹到落地，全程亲手完成
+[ 已记录 ]  长夜未眠       在月光最盛的时候，仍在留下提交
+[ 正在书写 ] 月照四方      想把散落的工具，结成完整的月轮
+[ 尚未到来 ] ???           继续走下去，终会知道
 ```
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 好感度
+## 愿与君共
 
-想聊 AI Agent、MCP、工作流自动化，或者只是想看看在做什么 —— 都欢迎。
+若你想谈 AI Agent、MCP、工作流自动化，或只是想知道月光如今照向何处 —— 我都愿意听。
 
 <div align="center">
 
