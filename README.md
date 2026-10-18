@@ -4,10 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=760&lines=AI+Agent+Orchestration+%C3%97+MCP;AI+Film+%26+Visual+Workbench;Building+tools+that+actually+ship)](https://git.io/typing-svg)
 
-[![Website](https://img.shields.io/badge/lanaiw.top-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.lanaiw.top/)
-[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/3546836998556622)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Lanmbsn)
-[![Email](https://img.shields.io/badge/lanaiw2025@163.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lanaiw2025@163.com)
+[![Website](https://img.shields.io/badge/lanaiw.top-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://www.lanaiw.top/)
+[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/3546836998556622)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Lanmbsn)
+[![Email](https://img.shields.io/badge/lanaiw2025@163.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lanaiw2025@163.com)
 
 </div>
 
