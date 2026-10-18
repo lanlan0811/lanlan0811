@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=lanlan0811&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=%E9%9D%99%E7%AB%8B%E5%B7%85%E5%B3%B0%EF%BC%8C%E7%9C%BA%E6%9C%9B%E5%BF%83%E4%B9%8B%E7%8B%82%E9%87%8E&descAlignY=60&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=%E5%85%B0&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=%E9%9D%99%E7%AB%8B%E5%B7%85%E5%B3%B0%EF%BC%8C%E7%9C%BA%E6%9C%9B%E5%BF%83%E4%B9%8B%E7%8B%82%E9%87%8E&descAlignY=60&descSize=18" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=760&lines=AI+Agent+Orchestration+%C3%97+MCP;AI+Film+%26+Visual+Workbench;Building+tools+that+actually+ship)](https://git.io/typing-svg)
 
@@ -69,18 +69,6 @@
 </td>
 <td width="50%" valign="top">
 
-#### [agent-foreman-mcp](https://github.com/lanlan0811/agent-foreman-mcp)
-
-面向 AI-Agent 的「工头」：派活 → 验收 → 返修闭环。
-让 codex / zcode / traework 这类外部 Agent 真正产出可交付代码。
-
-`TypeScript` · `MCP` · `Apache-2.0`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 #### [Tianshu-harness](https://github.com/lanlan0811/Tianshu-harness)
 
 终端编码 Agent，基于 harness 框架，带 CVM / 自我认知 / 共识记忆，针对 DeepSeek V4 前缀缓存优化。
@@ -88,6 +76,8 @@
 `TypeScript` · `Apache-2.0`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### [My-Agent-Skills-Collection](https://github.com/lanlan0811/My-Agent-Skills-Collection)
@@ -95,17 +85,6 @@
 面向主流 AI Agent 工具的开源技能合集：财税数据可视化、仓库分析、安全审计、分镜静帧、连续性控制、图生视频提示词。
 
 `Agent Skills`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### [Astral-harness](https://github.com/lanlan0811/Astral-harness)
-
-harness 体系下的实验性 Agent 运行时。
-
-`TypeScript` · `Apache-2.0`
 
 </td>
 <td width="50%" valign="top">
