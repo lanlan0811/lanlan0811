@@ -8,7 +8,6 @@
 [![Bilibili](https://img.shields.io/badge/Bilibili-7B2D8E?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/3546836998556622)
 [![X](https://img.shields.io/badge/X-2D1B4E?style=flat-square&logo=x&logoColor=white)](https://x.com/Lanmbsn)
 [![Email](https://img.shields.io/badge/lanaiw2025@163.com-E94E8A?style=flat-square&logo=gmail&logoColor=white)](mailto:lanaiw2025@163.com)
-![Visitors](https://komarev.com/ghpvc/?username=lanlan0811&label=%E8%AE%BF%E5%AE%A2&color=E94E8A&style=flat-square)
 
 </div>
 
