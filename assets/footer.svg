@@ -25,9 +25,12 @@
     </linearGradient>
 
     <filter id="fsoftglow" x="-40%" y="-40%" width="180%" height="180%">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blur"/>
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1.4" result="blur"/>
+      <feComponentTransfer in="blur" result="dim">
+        <feFuncA type="linear" slope="0.3"/>
+      </feComponentTransfer>
       <feMerge>
-        <feMergeNode in="blur"/>
+        <feMergeNode in="dim"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>

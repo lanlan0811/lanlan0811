@@ -8,7 +8,7 @@
     </linearGradient>
 
     <radialGradient id="aura" cx="50%" cy="0%" r="72%">
-      <stop offset="0%" stop-color="#FF7AB8" stop-opacity="0.55"/>
+      <stop offset="0%" stop-color="#FF7AB8" stop-opacity="0.34"/>
       <stop offset="60%" stop-color="#E94E8A" stop-opacity="0.12"/>
       <stop offset="100%" stop-color="#E94E8A" stop-opacity="0"/>
     </radialGradient>
@@ -36,18 +36,23 @@
     </linearGradient>
 
     <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="9" result="blur"/>
+      <feGaussianBlur in="SourceGraphic" stdDeviation="4" result="blur"/>
+      <feComponentTransfer in="blur" result="dim">
+        <feFuncA type="linear" slope="0.35"/>
+      </feComponentTransfer>
       <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="blur"/>
+        <feMergeNode in="dim"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
 
     <filter id="softglow" x="-40%" y="-40%" width="180%" height="180%">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blur"/>
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1.4" result="blur"/>
+      <feComponentTransfer in="blur" result="dim">
+        <feFuncA type="linear" slope="0.3"/>
+      </feComponentTransfer>
       <feMerge>
-        <feMergeNode in="blur"/>
+        <feMergeNode in="dim"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
