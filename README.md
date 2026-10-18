@@ -1,13 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=%E5%85%B0&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=%E9%9D%99%E7%AB%8B%E5%B7%85%E5%B3%B0%EF%BC%8C%E7%9C%BA%E6%9C%9B%E5%BF%83%E4%B9%8B%E7%8B%82%E9%87%8E&descAlignY=60&descSize=18" width="100%" />
+<img src="assets/banner.svg" width="100%" alt="兰 - 静立巅峰，眺望心之狂野" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=760&lines=AI+Agent+Orchestration+%C3%97+MCP;AI+Film+%26+Visual+Workbench;Building+tools+that+actually+ship)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=E94E8A&center=true&vCenter=true&width=760&lines=AI+Agent+Orchestration+%C3%97+MCP;AI+Film+%26+Visual+Workbench;Building+tools+that+actually+ship)](https://git.io/typing-svg)
 
-[![Website](https://img.shields.io/badge/lanaiw.top-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://www.lanaiw.top/)
-[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/3546836998556622)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Lanmbsn)
-[![Email](https://img.shields.io/badge/lanaiw2025@163.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lanaiw2025@163.com)
+[![Website](https://img.shields.io/badge/lanaiw.top-2D1B4E?style=flat-square&logo=googlechrome&logoColor=white)](https://www.lanaiw.top/)
+[![Bilibili](https://img.shields.io/badge/Bilibili-7B2D8E?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/3546836998556622)
+[![X](https://img.shields.io/badge/X-2D1B4E?style=flat-square&logo=x&logoColor=white)](https://x.com/Lanmbsn)
+[![Email](https://img.shields.io/badge/lanaiw2025@163.com-E94E8A?style=flat-square&logo=gmail&logoColor=white)](mailto:lanaiw2025@163.com)
+![Visitors](https://komarev.com/ghpvc/?username=lanlan0811&label=%E8%AE%BF%E5%AE%A2&color=E94E8A&style=flat-square)
 
 </div>
 
@@ -118,10 +119,6 @@
 
 <div align="center">
 
-### 静立巅峰，眺望心之狂野
-
-*如果某个项目对你有帮助，欢迎 Star / Issue / PR*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
+<img src="assets/footer.svg" width="100%" alt="静立巅峰，眺望心之狂野" />
 
 </div>
