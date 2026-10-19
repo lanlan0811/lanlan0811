@@ -197,10 +197,10 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/lanaiw.top-1C5FA8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.lanaiw.top/)
-[![Bilibili](https://img.shields.io/badge/Bilibili-0A1F3D?style=for-the-badge&logo=bilibili&logoColor=9FE4FF)](https://space.bilibili.com/3546836998556622)
-[![X](https://img.shields.io/badge/X-0A1F3D?style=for-the-badge&logo=x&logoColor=9FE4FF)](https://x.com/Lanmbsn)
-[![Email](https://img.shields.io/badge/lanaiw2025@163.com-123E77?style=for-the-badge&logo=gmail&logoColor=9FE4FF)](mailto:lanaiw2025@163.com)
+[![Website](https://img.shields.io/badge/lanaiw.top-1C5FA8?style=flat-square&logo=googlechrome&logoColor=white)](https://www.lanaiw.top/)
+[![Bilibili](https://img.shields.io/badge/Bilibili-0A1F3D?style=flat-square&logo=bilibili&logoColor=9FE4FF)](https://space.bilibili.com/3546836998556622)
+[![X](https://img.shields.io/badge/X-0A1F3D?style=flat-square&logo=x&logoColor=9FE4FF)](https://x.com/Lanmbsn)
+[![Email](https://img.shields.io/badge/lanaiw2025@163.com-123E77?style=flat-square&logo=gmail&logoColor=9FE4FF)](mailto:lanaiw2025@163.com)
 
 </div>
 
