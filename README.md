@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="兰 - 静立巅峰，眺望心之狂野" />
+<img src="assets/banner.svg" width="100%" alt="lanlan0811 - 静立巅峰，眺望心之狂野" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=6FD6FF&center=true&vCenter=true&width=760&lines=%E8%B7%9F%E9%9A%8F%E6%82%A0%E8%BF%9C%E7%9A%84%E6%9C%88%E5%85%89%EF%BC%8C%E6%89%BE%E5%9B%9E%E5%BD%92%E9%80%94%E5%90%A7;%E6%88%91%E4%BC%9A%E6%88%90%E4%B8%BA%E7%85%A7%E8%80%80%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%9C%88%E5%85%89;%E6%AF%94%E8%B5%B7%E9%82%A3%E4%B8%AA%E5%86%B0%E5%86%B7%E7%9A%84%E4%B8%96%E7%95%8C%EF%BC%8C%E4%BD%A0%E4%BB%AC%E6%9B%B4%E9%87%8D%E8%A6%81)](https://git.io/typing-svg)
 
