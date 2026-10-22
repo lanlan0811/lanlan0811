@@ -226,7 +226,7 @@
   <!-- 标题 -->
   <text x="392" y="196" text-anchor="middle"
         font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif"
-        font-size="120" font-weight="700" fill="#FFFFFF" filter="url(#titleGlow)">兰</text>
+        font-size="120" font-weight="700" fill="#FFFFFF" filter="url(#titleGlow)">lanlan0811</text>
 
   <!-- LAN -->
   <text x="392" y="240" text-anchor="middle"
